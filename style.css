@@ -54,7 +54,7 @@ color:#c8facc;
 
 .hero{
 background:linear-gradient(rgba(46,125,50,0.7),rgba(46,125,50,0.7)),
-url("Assets/img/milktea.jpg") center/cover;
+url("assets/img/milktea.jpg") center/cover;
 height:80vh;
 display:flex;
 align-items:center;
@@ -208,4 +208,5 @@ grid-template-columns:repeat(2,1fr);
 flex-direction:column;
 gap:20px;
 }
+
 }
